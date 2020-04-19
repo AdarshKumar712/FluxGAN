@@ -1,2 +1,16 @@
 # FluxGAN
-Imlementation of Various GAN models with Julia
+
+This repository contains collection of various Generative Adverserial Models implemented with Flux. Model architectures may not be exact as those proposed in the paper but key focus have been put on getting the core ideas rather than just copying the model architectures layer by layer. Any suggestions and contributions are always welcome.
+
+# Models
+<li> ACGAN
+<li> CGAN
+<li> InfoGAN
+
+# Status
+  
+  WIP
+
+# References
+<li> https://github.com/eriklindernoren/PyTorch-GAN.git
+<li> https://github.com/eriklindernoren/Keras-GAN.git
