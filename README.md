@@ -5,7 +5,10 @@ This repository contains collection of various Generative Adverserial Models imp
 # Models
 <li> ACGAN
 <li> CGAN
+<li> CoupledGAN
 <li> InfoGAN
+<li> VanillaGAN
+<li> WGAN
 
 # Status
   
