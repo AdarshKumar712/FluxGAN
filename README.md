@@ -9,6 +9,7 @@ This repository contains collection of various Generative Adverserial Models imp
 <li> CoupledGAN
 <li> InfoGAN
 <li> LSGAN
+<li> SGAN
 <li> VanillaGAN
 <li> WGAN
 
@@ -19,4 +20,5 @@ This repository contains collection of various Generative Adverserial Models imp
 # References
 <li> https://github.com/eriklindernoren/PyTorch-GAN.git
 <li> https://github.com/eriklindernoren/Keras-GAN.git
+<li> https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/
 
